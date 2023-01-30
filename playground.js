@@ -25,3 +25,10 @@ console.log('This is the main change');
 }
 
 myChanges();
+// another branch  changes
+
+function anotherBranch() {
+  console.log("Hi am from another branch !!");
+}
+
+anotherBranch()
