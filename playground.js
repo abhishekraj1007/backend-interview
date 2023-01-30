@@ -19,3 +19,9 @@ async function getMovie(title) {
 getMovie("titanic").then((data) => log(data));
 
 // end of my changes
+
+function myChanges () {
+console.log('This is the main change');
+}
+
+myChanges();
